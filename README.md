@@ -21,9 +21,33 @@
 <span align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </span>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=heamoe" />
 </div>
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post 1](#)
+- [Post 2](#)
+- [Post 3](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
