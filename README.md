@@ -1,8 +1,4 @@
-<h1 align="center">
-    <a href="https://sunguoqi.com/">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22welcome%2Cto%22);CYPHERPUNK&center=true&size=27">
-    </a>
-</h1>
+
 
 ### heamoe's GitHub Repositories
 
