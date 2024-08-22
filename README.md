@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Amos!
 
-# 👋 Hi there, I'm Amos!
-
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
