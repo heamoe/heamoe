@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amos!
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!😆
 
 ## 🚀 About Me
 I'm an enthusiastic **Android Developer** with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable Android apps using **Java** and **Kotlin**. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful solutions.
@@ -20,7 +20,7 @@ I am committed to pushing the boundaries of my Android development expertise by 
 - **Advanced Dependency Injection with Dagger & Hilt**: Creating highly modular and testable Android applications.
 - **Coroutines and Flow in Kotlin**: Leveraging asynchronous programming for smooth and efficient app performance.
 - **Kotlin Multiplatform**: Exploring the future of cross-platform development with Kotlin's powerful capabilities.
-
+Currently following this roadmap: (https://roadmap.sh/android)
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/zhaorui-zhang-1299962b2/)
