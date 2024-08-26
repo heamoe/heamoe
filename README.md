@@ -20,7 +20,9 @@ I am committed to pushing the boundaries of my Android development expertise by 
 - **Advanced Dependency Injection with Dagger & Hilt**: Creating highly modular and testable Android applications.
 - **Coroutines and Flow in Kotlin**: Leveraging asynchronous programming for smooth and efficient app performance.
 - **Kotlin Multiplatform**: Exploring the future of cross-platform development with Kotlin's powerful capabilities.
-Currently following this roadmap: (https://roadmap.sh/android)
+
+Currently following this roadmap: [https://roadmap.sh/android](https://roadmap.sh/android)
+
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/zhaorui-zhang-1299962b2/)
