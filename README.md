@@ -35,6 +35,7 @@ Currently following this roadmap: [https://roadmap.sh/android](https://roadmap.s
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/zhaorui-zhang-1299962b2/)
+- **Email**: [zhaoruizhangamos@gmail.com](mailto:zhaoruizhangamos@gmail.com)
 
 Looking forward to collaborating on exciting projects and sharing knowledge with the community!
 
