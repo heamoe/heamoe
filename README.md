@@ -33,20 +33,6 @@ Looking forward to collaborating on exciting projects and sharing knowledge with
 
 _"The only way to do great work is to love what you do."_
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heamoe&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heamoe" />
-</div>
-
-
-<div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=heamoe&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=heamoe" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=heamoe&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=heamoe&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heamoe&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
