@@ -4,7 +4,7 @@ Welcome to my GitHub profile!😆
 
 ## 🚀 About Me
 I'm an enthusiastic **Android Developer** with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable Android apps using **Java** and **Kotlin**. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful solutions.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heamoe&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoiz65" /> </p>
 ## 🛠️ My Skill Set
 - **Programming Languages**: 
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
