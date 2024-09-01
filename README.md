@@ -98,7 +98,6 @@ I am committed to pushing the boundaries of my Android development expertise by 
 - **Coroutines and Flow in Kotlin**: Leveraging asynchronous programming for smooth and efficient app performance.
 - **Kotlin Multiplatform**: Exploring the future of cross-platform development with Kotlin's powerful capabilities.
 
-Currently following this roadmap: [https://roadmap.sh/android](https://roadmap.sh/android)
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
