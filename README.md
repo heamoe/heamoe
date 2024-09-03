@@ -1,6 +1,6 @@
 #  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />Hi there, I'm Amos!
 
-
+Welcome to my GitHub profile!😆
 ## 🚀 About Me
 I'm an enthusiastic **Android Developer** with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable Android apps using **Java** and **Kotlin**. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful solutions.
 
