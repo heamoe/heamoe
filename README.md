@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!😆
 ## 🚀 About Me
-I'm an enthusiastic **Android Developer** with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable Android apps using **Java** and **Kotlin**. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful solutions.
+I'm an enthusiastic Mobile Developer with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable apps using React Native, JavaScript, and Kotlin. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful cross-platform solutions.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=heamoe&label=Profile%20views&color=0e75b6&style=flat" alt="heamoe" />
@@ -92,11 +92,11 @@ I'm an enthusiastic **Android Developer** with a passion for building intuitive 
 
 
 ## 🌟 What I'm Mastering
-I am committed to pushing the boundaries of my Android development expertise by diving deep into advanced topics such as:
-- **Advanced Dependency Injection with Dagger & Hilt**: Creating highly modular and testable Android applications.
-- **Coroutines and Flow in Kotlin**: Leveraging asynchronous programming for smooth and efficient app performance.
-- **Kotlin Multiplatform**: Exploring the future of cross-platform development with Kotlin's powerful capabilities.
+I am committed to pushing the boundaries of my mobile development expertise by diving deep into advanced topics such as:
 
+- **Advanced Dependency Injection with React Hooks and Context API**: Creating highly modular and testable React Native applications.
+- **React Native Async Storage and State Management**: Leveraging efficient asynchronous programming for smooth and responsive app performance.
+- **React Native with Expo and Native Modules**: Exploring the future of cross-platform development with React Native’s powerful capabilities.
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
