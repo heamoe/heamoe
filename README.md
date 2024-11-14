@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!😆
 ## 🚀 About Me
-I'm an enthusiastic Mobile Developer with a passion for building intuitive and user-friendly mobile applications. I specialize in creating robust and scalable apps using React Native, JavaScript, and Kotlin. My journey in the tech world started with curiosity and a desire to create, and now, I’m turning that passion into impactful cross-platform solutions.
+I'm an enthusiastic Mobile and Web Developer with a focus on building intuitive, responsive, and user-friendly applications. I specialize in creating robust and scalable apps using **React Native**, **React**, **Next.js**, **JavaScript**, and **Kotlin**. My journey in tech began with curiosity and a passion for creating, and now I'm turning that passion into impactful cross-platform and web-based solutions.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=heamoe&label=Profile%20views&color=0e75b6&style=flat" alt="heamoe" />
