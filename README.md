@@ -17,13 +17,14 @@ I'm an enthusiastic Mobile Developer with a passion for building intuitive and u
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks & Tools**: 
+- **Frameworks & Tools**:
+  - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
   - ![Room](https://img.shields.io/badge/-Room%20Database-6DB33F?style=flat&logo=android&logoColor=white)
   - ![Retrofit](https://img.shields.io/badge/-Retrofit-008C45?style=flat&logo=retrofit&logoColor=white)
-  - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
