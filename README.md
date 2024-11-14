@@ -94,10 +94,12 @@ I'm an enthusiastic Mobile and Web Developer with a focus on building intuitive,
 
 ## 🌟 What I'm Mastering
 
-I am committed to pushing the boundaries of my mobile development expertise by diving deep into advanced topics such as:
-- **Advanced Dependency Injection with React Hooks and Context API**: Creating highly modular and testable React Native applications.
-- **React Native Async Storage and State Management**: Leveraging efficient asynchronous programming for smooth and responsive app performance.
-- **React Native with Expo and Native Modules**: Exploring the future of cross-platform development with React Native’s powerful capabilities.
+I am dedicated to advancing my web development skills by mastering cutting-edge techniques and best practices, such as:
+- **Complex State Management with React, Redux, and Context API**: Architecting scalable and maintainable state management solutions in large React applications.
+- **Optimizing Performance and SEO with Next.js**: Implementing advanced **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, and **Incremental Static Regeneration (ISR)** to achieve lightning-fast performance and enhanced SEO for dynamic web applications.
+- **Advanced Routing and API Architecture with Next.js**: Leveraging **dynamic routing**, **API routes**, and **middleware** in Next.js to build flexible, high-performance, and secure full-stack web applications.
+- **Progressive Web Apps (PWA) with React and Next.js**: Building highly performant, offline-capable, and mobile-first applications with advanced web capabilities.
+
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
