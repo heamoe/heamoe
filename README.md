@@ -94,7 +94,6 @@ I'm an enthusiastic Mobile and Web Developer with a focus on building intuitive,
 
 ## 🌟 What I'm Mastering
 
-
 I am dedicated to advancing my web development skills by mastering cutting-edge techniques and best practices, such as:
 - **Complex State Management with React, Redux, and Context API**: Architecting scalable and maintainable state management solutions in large React applications.
 - **Optimizing Performance and SEO with Next.js**: Implementing advanced **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, and **Incremental Static Regeneration (ISR)** to achieve lightning-fast performance and enhanced SEO for dynamic web applications.
