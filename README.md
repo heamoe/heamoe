@@ -8,7 +8,7 @@ I'm an enthusiastic Software Developer with a focus on building intuitive, respo
   <img src="https://komarev.com/ghpvc/?username=heamoe&label=Profile%20views&color=0e75b6&style=flat" alt="heamoe" />
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=heamoe&theme=dark_dimmed" alt="heamoe" />
+    <img src="https://github-profile-trophy.vercel.app/?username=heamoe&theme=dark_lover" alt="heamoe" />
   </a>
 </p>
 
